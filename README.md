@@ -1,2 +1,3 @@
-# Wheatstone-Bridge-Thermistor-Precision-Temperature-Sensing
-Designed a thermistor-based temperature sensing system using a Wheatstone bridge and Arduino DAQ. Converted differential bridge voltage to resistance, calibrated via Steinhart–Hart coefficients derived through curve fitting, and implemented real-time temperature estimation with moving-average noise reduction. Principles in medical sensor systems 
+# Medical-Device-Signal-Processing
+
+Collection of embedded biomedical signal-processing projects developed for medical device applications, including PPG heart-rate/SpO₂ analysis, FFT and autocorrelation methods, gait detection with Hall-effect sensors, precision temperature sensing, and closed-loop glucose–insulin PID simulation. Each project demonstrates real-time physiological data acquisition, filtering, feature extraction, and control-system implementation using Arduino-based hardware and MATLAB-informed modeling approaches.
